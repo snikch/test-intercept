@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import swagPhotos from "../../photos";
+import swagPhotos from "../photos";
 
 export default function Home() {
   const photos = swagPhotos;
