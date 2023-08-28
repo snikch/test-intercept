@@ -1,5 +1,3 @@
-"use client";
-
 import Frame from "../../../../components/frame/Frame";
 import swagPhotos, { Photo } from "../../../../photos";
 

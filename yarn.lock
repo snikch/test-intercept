@@ -51,15 +51,15 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@next/env@13.4.19":
-  version "13.4.19"
-  resolved "https://registry.npmjs.org/@next/env/-/env-13.4.19.tgz"
-  integrity sha512-FsAT5x0jF2kkhNkKkukhsyYOrRqtSxrEhfliniIq0bwWbuXLgyt3Gv0Ml+b91XwjwArmuP7NxCiGd++GGKdNMQ==
+"@next/env@13.4.20-canary.9":
+  version "13.4.20-canary.9"
+  resolved "https://registry.npmjs.org/@next/env/-/env-13.4.20-canary.9.tgz"
+  integrity sha512-Q50WWRslscwtZmrnpP+l5+bMyvv0K1s5XDreCSoor+bnz3aYadUUL2fIoZD9I+4glXW+BsqVKpDu/e4dnlk63A==
 
-"@next/swc-darwin-arm64@13.4.19":
-  version "13.4.19"
-  resolved "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-13.4.19.tgz"
-  integrity sha512-vv1qrjXeGbuF2mOkhkdxMDtv9np7W4mcBtaDnHU+yJG+bBwa6rYsYSCI/9Xm5+TuF5SbZbrWO6G1NfTh1TMjvQ==
+"@next/swc-darwin-arm64@13.4.20-canary.9":
+  version "13.4.20-canary.9"
+  resolved "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-13.4.20-canary.9.tgz"
+  integrity sha512-Zz+oxCegzfFeI4wc34acHVCaAOoGONykcaZNuwqJMLld+uH2NWJzGyNYz/raDH5aXS6T0tL5HMxdZhjtVbTmwQ==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -458,12 +458,12 @@ nanoid@^3.3.4, nanoid@^3.3.6:
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.6.tgz"
   integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
 
-next@^13.4.19:
-  version "13.4.19"
-  resolved "https://registry.npmjs.org/next/-/next-13.4.19.tgz"
-  integrity sha512-HuPSzzAbJ1T4BD8e0bs6B9C1kWQ6gv8ykZoRWs5AQoiIuqbGHHdQO7Ljuvg05Q0Z24E2ABozHe6FxDvI6HfyAw==
+next@^13.4.20-canary.9:
+  version "13.4.20-canary.9"
+  resolved "https://registry.npmjs.org/next/-/next-13.4.20-canary.9.tgz"
+  integrity sha512-4nNolg0YM2Z6YCrGbRCBG/2ubq15ncmW7rRQEd89sSvejf4Rhc2lIB5VKVx0uJmyfFXsliRSoGsBsqN1qjJLEQ==
   dependencies:
-    "@next/env" "13.4.19"
+    "@next/env" "13.4.20-canary.9"
     "@swc/helpers" "0.5.1"
     busboy "1.6.0"
     caniuse-lite "^1.0.30001406"
@@ -472,15 +472,15 @@ next@^13.4.19:
     watchpack "2.4.0"
     zod "3.21.4"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "13.4.19"
-    "@next/swc-darwin-x64" "13.4.19"
-    "@next/swc-linux-arm64-gnu" "13.4.19"
-    "@next/swc-linux-arm64-musl" "13.4.19"
-    "@next/swc-linux-x64-gnu" "13.4.19"
-    "@next/swc-linux-x64-musl" "13.4.19"
-    "@next/swc-win32-arm64-msvc" "13.4.19"
-    "@next/swc-win32-ia32-msvc" "13.4.19"
-    "@next/swc-win32-x64-msvc" "13.4.19"
+    "@next/swc-darwin-arm64" "13.4.20-canary.9"
+    "@next/swc-darwin-x64" "13.4.20-canary.9"
+    "@next/swc-linux-arm64-gnu" "13.4.20-canary.9"
+    "@next/swc-linux-arm64-musl" "13.4.20-canary.9"
+    "@next/swc-linux-x64-gnu" "13.4.20-canary.9"
+    "@next/swc-linux-x64-musl" "13.4.20-canary.9"
+    "@next/swc-win32-arm64-msvc" "13.4.20-canary.9"
+    "@next/swc-win32-ia32-msvc" "13.4.20-canary.9"
+    "@next/swc-win32-x64-msvc" "13.4.20-canary.9"
 
 node-releases@^2.0.12:
   version "2.0.12"
