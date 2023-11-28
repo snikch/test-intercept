@@ -3,7 +3,7 @@ import Modal from "../../../../components/modal/Modal";
 import swagPhotos, { Photo } from "../../../../photos";
 
 export default function PhotoModal({
-  params: { id: photoId, username },
+  params: { id2: photoId, username2:username },
 }: {
   params: { id: string; username: string };
 }) {
